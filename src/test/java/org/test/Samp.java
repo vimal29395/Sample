@@ -4,5 +4,7 @@ public class Samp {
 private void test() {
 System.out.println("TestA");
 System.out.println("TestB");
+System.out.println("TestC");
+
 }
 }
